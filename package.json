@@ -22,6 +22,6 @@
   "homepage": "https://github.com/omegaspn/nova-demo-npm#readme",
   "dependencies": {},
   "devDependencies": {
-    "jest": "^24.9.0"
+    "jest": "^30.4.2"
   }
 }
